@@ -1,6 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 import 'animate.css';
+import DanteSarmientCv from '../../assets/DanteSarmientoCv.pdf'
 
 export const Navbar = () => {
     return (
@@ -15,6 +16,9 @@ export const Navbar = () => {
                 </li>
                 <li class="nav-item">
                     <a class="nav-link " href="#Contact">Contact</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href={DanteSarmientCv} download="DanteSarmientoCv">CV</a>
                 </li>
             </ul>
         </div>
