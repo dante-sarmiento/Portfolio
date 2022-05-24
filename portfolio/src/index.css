@@ -6,6 +6,9 @@
   --color5: #20dbcd;
 }
 
+:root{
+  width: 100%;
+}
 
 body {
   margin: 0;
