@@ -11,9 +11,9 @@ export const AboutMe = () => {
                         <img src={PhotoDante} alt="" className='ImgDante' />
                     </div>
                     <div className='contText'>
-                        <h3 className='h3text'>MY NAME IS</h3>
-                        <h2 className='h2text'>DANTE SARMIENTO</h2>
-                        <h3 className='h3leyend'>i'M A FULL STACK DEVELOPER</h3>
+                        <h3 className='h3text '>MY NAME IS</h3>
+                        <h2 className='h2text '>DANTE SARMIENTO</h2>
+                        <h3 className='h3leyend '>i'M A FULL STACK DEVELOPER</h3>
                     </div>
                 </div>
             </div>
