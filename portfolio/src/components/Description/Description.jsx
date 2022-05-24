@@ -8,7 +8,7 @@ export const Description = () => {
             <div className='container'  id='Description'>
                 <h1 className='titless'>About Me</h1>
             </div>
-            <div>
+            <div className='container'>
                 <div className='container description'>
                     <div className="card">
                         <div class="card-body">

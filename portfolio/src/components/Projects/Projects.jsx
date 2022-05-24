@@ -8,7 +8,6 @@ export const Projects = () => {
                 <h1 className='titless'>Projects</h1>
             </div>
             <div className='container proy'>
-                <div  >
                     <div className='container proj'>
                         <h2><b>On The Rocks</b></h2>
                         <h5>This is a first Rolling Code project about different cocktails. It was made using HTML5, CSS3 and Botstrap </h5>
@@ -38,7 +37,6 @@ export const Projects = () => {
                         </div>
 
                     </div>
-                </div>
             </div>
         </>
     )

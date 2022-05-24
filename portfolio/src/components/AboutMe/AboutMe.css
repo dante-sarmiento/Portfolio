@@ -1,8 +1,9 @@
 .contAbout{
-    /* height: 100vh; */
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 40px;
 }
 .ImgDante {
     width: 250px;
@@ -15,7 +16,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 40px;
+    
 }
 
 .contText {
