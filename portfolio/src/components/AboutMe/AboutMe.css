@@ -1,0 +1,65 @@
+.contAbout{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ImgDante {
+    width: 250px;
+    border-radius: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.contText {
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.h3text {
+    font-size: 40px;
+    color: white;
+}
+
+.h2text {
+    font-size: 60px;
+    color: white;
+}
+
+.h3leyend {
+    font-size: 40px;
+    color: black;
+    background-color: #17a0a6;
+}
+
+
+@media screen and (max-width: 700px) {
+    .about {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .h3text {
+        font-size:20px;
+        color: white;
+    }
+
+    .h2text {
+        font-size: 30px;
+        color: white;
+    }
+
+    .h3leyend {
+        font-size: 20px;
+        color: black;
+        background-color: #17a0a6;
+    }
+}
