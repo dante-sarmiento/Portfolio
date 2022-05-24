@@ -5,7 +5,8 @@ import './AboutMe.css'
 export const AboutMe = () => {
     return (
         <>
-                <div className='container contAbout'>
+        <div className='contAbout'>
+                <div className='container about'>
                     <div className='contFoto animate__animated animate__backInLeft'>
                         <img src={PhotoDante} alt="" className='ImgDante' />
                     </div>
@@ -15,7 +16,7 @@ export const AboutMe = () => {
                         <h3 className='h3leyend'>i'M A FULL STACK DEVELOPER</h3>
                     </div>
                 </div>
-            
+            </div>
         </>
     )
 }
