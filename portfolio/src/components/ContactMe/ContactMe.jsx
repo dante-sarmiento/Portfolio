@@ -10,8 +10,8 @@ export const ContactMe = () => {
         </div>
         <div className='container ambs'>
           <div className='container-sm der'>
-            <h3><ion-icon name="mail-unread-outline"></ion-icon> dante.sarmientof5@gmail.com</h3>
-            <h3><ion-icon name="call-outline"></ion-icon> 3816521029</h3>
+            <h3 className='conta'><ion-icon name="mail-unread-outline"></ion-icon> dante.sarmientof5@gmail.com</h3>
+            <h3 className='conta'><ion-icon name="call-outline"></ion-icon> 3816521029</h3>
 
 
           </div>

@@ -8,7 +8,7 @@
 }
 .der{
     margin-top: 20px;
-    font-size: 40px;
+    font-size: 35px;
 }
 .izq{
     font-size: 50px;
@@ -20,4 +20,7 @@
 }
 .aizq:hover{
     color: white !important;
+}
+.conta{
+    font-size: 25px;
 }
