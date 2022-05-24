@@ -22,5 +22,10 @@
     color: white !important;
 }
 .conta{
-    font-size: 25px;
+    font-size: 30px;
+}
+@media screen and (max-width: 700px){
+    .conta{
+        font-size: 20px;
+    }
 }

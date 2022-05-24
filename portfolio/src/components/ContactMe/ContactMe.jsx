@@ -4,10 +4,10 @@ import './ContactME.css'
 export const ContactMe = () => {
   return (
     <>
+      <div className='container' id='Contact'>
+        <h1 className='titless'>Contact Me</h1>
+      </div>
       <div className='container'>
-        <div className='container' id='Contact'>
-          <h1 className='titless'>Contact Me</h1>
-        </div>
         <div className='container ambs'>
           <div className='container-sm der'>
             <h3 className='conta'><ion-icon name="mail-unread-outline"></ion-icon> dante.sarmientof5@gmail.com</h3>

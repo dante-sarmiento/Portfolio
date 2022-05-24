@@ -4,10 +4,10 @@ import './Projects.css'
 export const Projects = () => {
     return (
         <>
+            <div className='container tit' id='Projects'>
+                <h1 className='titless'>Projects</h1>
+            </div>
             <div className='container proy'>
-                <div className='container tit' id='Projects'>
-                    <h1 className='titless'>Projects</h1>
-                </div>
                 <div  >
                     <div className='container proj'>
                         <h2><b>On The Rocks</b></h2>
@@ -36,7 +36,7 @@ export const Projects = () => {
                         <div className='linki'>
                             <a className='linkss' href="https://app-moviepop-fronted.herokuapp.com">View App</a>
                         </div>
-                        
+
                     </div>
                 </div>
             </div>
