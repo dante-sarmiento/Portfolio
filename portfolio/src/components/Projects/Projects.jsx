@@ -17,7 +17,7 @@ export const Projects = () => {
                     </div>
                     <div className='container proj'>
                         <h2><b>Gamer Guy</b></h2>
-                        <h5>This is a second Rolling Code project. It's a videogame platform. it was made using HTML5, CSS3, Bootstrap and JavaScript</h5>
+                        <h5>This is a second Rolling Code project. It's a videogame platform. it was made using HTML5, CSS3, Bootstrap and Javascript</h5>
                         <div className='linki'>
                             <a className='linkss' href="https://gamerguy.netlify.app/pages/login/login.html">View App</a>
                         </div>
