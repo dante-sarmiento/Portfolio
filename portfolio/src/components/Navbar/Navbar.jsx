@@ -1,8 +1,7 @@
 import React from 'react'
 import './Navbar.css'
 import 'animate.css';
-import DanteSarmientCv from '../../assets/DanteSarmientoCv.pdf'
-import DANTESARMIENTOCV from '../../assets/DANTESARMIENTOCV.png'
+import CVDanteSarmiento from '../../assets/CVDanteSarmiento.pdf'
 
 export const Navbar = () => {
     return (
@@ -19,7 +18,7 @@ export const Navbar = () => {
                     <a class="nav-link " href="#Contact">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link " href={DANTESARMIENTOCV} download="DANTESARMIENTOCV">CV</a>
+                    <a class="nav-link " href={CVDanteSarmiento} download="CVDanteSarmiento">CV</a>
                 </li>
             </ul>
         </div>
